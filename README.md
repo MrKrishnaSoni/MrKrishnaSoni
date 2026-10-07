@@ -1,22 +1,88 @@
-# About Me
+# 👋 Hi, I'm a Front-End & Mobile Engineer
 
-👋 Hi there! I'm Krishna Soni, and I'm passionate about front-end development and design excellence. Here's a bit about what I bring to the table:
+I am a **Front-End & Mobile Engineer** specializing in **React.js, Next.js, and TypeScript**, with a strong focus on building **scalable, high-performance web and mobile applications**.
 
-## What I Do
+My expertise includes:
 
-- 💻 I'm the ultimate trifecta of front-end development and design excellence. My core skills include HTML, CSS, and JavaScript, and I'm well-versed in SCSS. I'm also proficient with popular frameworks like MUI, Bootstrap, and Tailwindcss. 😃
+* ⚛️ **React.js & Next.js** — Building scalable, production-ready web applications
+* 📘 **TypeScript** — Writing maintainable, type-safe applications
+* 🧠 **State Management** — Redux, Zustand
+* 🔌 **API Integration** — REST APIs and seamless third-party integrations
+* ⚡ **Performance Optimization** — Improving application speed, accessibility, and user experience
+* 📱 **React Native** — Cross-platform Android & iOS applications
+* 🎨 **UI/UX Development** — Responsive interfaces, smooth animations, and mobile-first experiences
 
-- 🎨 I have completed numerous front-end and UI/UX design projects. My portfolio is filled with stunning, modern designs created using tools like Figma, Photoshop. 🤘🏼
+## 📱 Mobile Development
 
-- 🚀 When it comes to creating interactive, animated user interfaces, I'm a pro. I utilize libraries like GSAP and Framer Motion to bring designs to life. 🤩
+Beyond web development, I work with **React Native** to build cross-platform applications for **Android and iOS**.
 
-- 👩‍🔬 I have a knack for creating intuitive and user-friendly interfaces. I believe in user-centric design and have experience conducting user research and usability testing to ensure that my designs meet the needs of the target audience. 😌
+I focus on:
 
-- 🎨 I have a good eye for aesthetics and am skilled in creating visually appealing designs that align with current design trends. 😍
+* High-performance mobile interfaces
+* Smooth animations and interactions
+* Responsive layouts
+* Native performance optimizations
+* Efficient API and state management
+* Cross-platform architecture
 
-- ⚛️ I'm proficient with React and Next.js, which allows me to build fast, scalable, and SEO-friendly web applications. 😎
+## 🌐 Web3 & Blockchain
 
-- 🚀 I'm always on the cutting edge of design trends and continuously strive to learn new skills and technologies. Currently, I'm diving into web3 and 3D design to stay ahead of the curve. 🥳
+I also have experience integrating **Web3 technologies** into modern applications.
 
+My experience includes:
 
-Let's create amazing digital experiences together! 🚀
+* 🔗 Smart contract integration
+* 🦄 Wagmi
+* 🌈 RainbowKit
+* Wallet connectivity
+* Blockchain-based application interfaces
+
+## 🖥️ Desktop Applications
+
+I also explore cross-platform desktop application development using:
+
+* ⚡ **Electron.js**
+* 🦀 **Tauri**
+
+These technologies allow me to build lightweight, cross-platform desktop experiences using modern web technologies.
+
+## ⚙️ Backend & Data
+
+While my primary focus is on front-end and mobile engineering, I have a strong foundational understanding of backend technologies and data management.
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases & Data
+
+* MongoDB
+* Firebase
+* SQL
+* ORMs
+
+### CMS & BaaS
+
+* Payload CMS
+* Firebase
+
+## 🚀 What I Care About
+
+I am passionate about building **high-quality, scalable digital experiences** with a strong focus on:
+
+* ⚡ Performance
+* 🔐 Security
+* ♿ Accessibility
+* 📈 Scalability
+* 🎨 User Experience
+* 🧩 Maintainable Architecture
+
+I continuously explore new technologies and development practices to push the boundaries of what modern web and mobile applications can achieve.
+
+## 🤝 Let's Connect
+
+📩 **Open to collaborations, interesting projects, and new opportunities.**
+
+**Let's build something great together! 🚀**
